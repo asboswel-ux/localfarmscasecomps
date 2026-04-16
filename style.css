@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Non-Profit Initiative | Case Competition</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">EcoStrive</div>
+        <nav>
+            <a href="#about">The Mission</a>
+            <a href="#solution">Our Strategy</a>
+            <a href="#impact">Impact Metrics</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Rooted in Change</h1>
+            <p>Developing sustainable solutions for a greener tomorrow. Our case study focuses on high-impact, community-led initiatives.</p>
+            <a href="#about" class="btn">Explore Our Proposal</a>
+        </section>
+
+        <div class="container" id="about">
+            <div class="card">
+                <h3>Environmental Challenge</h3>
+                <p>Define the specific problem here. Use this space to highlight the urgency of the issue and the current gaps in the non-profit landscape.</p>
+            </div>
+
+            <div id="solution" class="card">
+                <h3>Strategic Innovation</h3>
+                <p>Describe your team's unique approach. Focus on how you utilize resources efficiently and what makes your model scalable.</p>
+            </div>
+
+            <div id="impact" class="card">
+                <h3>Measurable Outcomes</h3>
+                <p>Provide the data. Whether it's carbon footprint reduction or community engagement numbers, show the judges your projected ROI.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Case Competition | Team [Your Team Name]</p>
+        <p style="font-size: 0.8rem; margin-top: 10px;">Dedicated to Sustainable Development</p>
+    </footer>
+
+</body>
+</html>
